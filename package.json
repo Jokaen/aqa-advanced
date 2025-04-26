@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "My first project on js",
+  "homepage": "https://github.com/Jokaen/aqa-advanced#readme",
+  "bugs": {
+    "url": "https://github.com/Jokaen/aqa-advanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokaen/aqa-advanced.git"
+  },
+  "license": "ISC",
+  "author": "Jokaen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
