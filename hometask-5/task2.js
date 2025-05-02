@@ -1,6 +1,6 @@
 const averageGrade = 91;
 
-switch (averageGrade) {
+switch (true) {
     case averageGrade < 60 && averageGrade >= 0:
         console.log("Незадовільно");
         break;
